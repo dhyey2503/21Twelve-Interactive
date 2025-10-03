@@ -40,7 +40,7 @@ Frontend (React.js)
 🛠️ Tech Stack
 - **Frontend**: React.js, React Router DOM, Axios, TailwindCSS (for styling)
 - **Backend**: Node.js, Express.js, JWT, bcrypt
-- **Database**: MongoDB (Mongoose ODM)
+- **Database**: MongoDB 
 - **Tools**: Postman (for API testing), GitHub Desktop
 
 ---
