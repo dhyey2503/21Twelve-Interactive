@@ -53,7 +53,7 @@ npm install
 npm start
 ```
 Frontend:
-`` `bash
+```bash
 cd frontend
 npm install
 npm start
