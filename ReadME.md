@@ -52,6 +52,7 @@ npm install
 ```
 
 Dependencies:
+```bash
 express
 mongoose
 bcryptjs
@@ -59,6 +60,7 @@ jsonwebtoken
 dotenv
 cors
 nodemon (dev dependency)
+```
 
 Run backend:
 ```bash
@@ -72,11 +74,13 @@ npm install
 ```
 
 Dependencies:
+```bash
 react
 react-dom
 react-router-dom
 axios
 tailwindcss
+```
 
 Run frontend:
 ```bash
