@@ -44,16 +44,41 @@ Frontend (React.js)
 - **Tools**: Postman (for API testing), GitHub Desktop
 
 ---
- How to Run Locally
-
-Backend:
+💻 Installation & Setup
+Backend
 ```bash
 cd backend
 npm install
-npm start
 ```
-Frontend:
+
+Dependencies:
+express
+mongoose
+bcryptjs
+jsonwebtoken
+dotenv
+cors
+nodemon (dev dependency)
+
+Run backend:
+```bash
+npm run dev
+```
+
+Frontend
 ```bash
 cd frontend
 npm install
+```
+
+Dependencies:
+react
+react-dom
+react-router-dom
+axios
+tailwindcss
+
+Run frontend:
+```bash
 npm start
+```
